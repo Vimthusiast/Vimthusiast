@@ -4,4 +4,4 @@
 
 **My Projects:**
 
-- [TempestDB](https://github.com/Vimthusiast/tempest): A database written in Rust (working on it)
+- [TempestDB](https://codeberg.org/Vimthusiast/tempest): A database written in Rust (working on it)
