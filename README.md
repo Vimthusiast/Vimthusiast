@@ -9,4 +9,6 @@
 **My Projects:**
 
 - [TinySys](https://git.jofh.me/Vimthusiast/tinysys): A kernel written in Zig from scratch (current).
+  ![Wakapi Badge](https://waka.jofh.me/api/badge/Vimthusiast/interval:any/project:tinysys)
 - [TempestDB](https://git.jofh.me/Vimthusiast/tempest): A database written in Rust (on pause)
+  ![Wakapi Badge](https://waka.jofh.me/api/badge/Vimthusiast/interval:any/project:tempest)
