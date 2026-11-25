@@ -6,7 +6,9 @@
 
 **My Projects:**
 
-- [TinySys](https://git.jofh.me/Vimthusiast/tinysys): A kernel written in Zig from scratch (current).
+- [TinySys](https://git.jofh.me/Vimthusiast/tinysys): A kernel written in Zig.
   ![Wakapi Badge](https://waka.jofh.me/api/badge/Vimthusiast/interval:any/project:tinysys)
-- [TempestDB](https://codeberg.org/Vimthusiast/tempest): A database written in Rust (on pause)
+- [TempestDB](https://codeberg.org/Vimthusiast/tempest): A database written in Rust.
   ![Wakapi Badge](https://waka.jofh.me/api/badge/Vimthusiast/interval:any/project:tempest)
+- [`postfixc`](https://git.jofh.me/Vimthusiast/postfixc): Compile PostFix programs to fast, native executables.
+  ![Wakapi Badge](https://waka.jofh.me/api/badge/Vimthusiast/interval:any/project:postfixc)
